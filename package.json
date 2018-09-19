@@ -1,8 +1,12 @@
 {
   "name": "boil",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generates files from roose/boilerplate repository",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roose/boil.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
